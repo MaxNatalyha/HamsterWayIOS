@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a177e5c5471c457d80b4400604e7558, type: 3}
+  m_Name: Pet_Asset_FluffyPink
+  m_EditorClassIdentifier: 
+  _currency: 1
+  _price: 2000
+  _bought: 0
+  _iap: 0
+  _assetID:
+    value: ab4faaa6-7fd8-415c-9dbc-c93335710b8b
+  assetColorPreview: {r: 0.76862746, g: 0.6627451, b: 0.9019608, a: 1}
+  animator: {fileID: 9100000, guid: ed53d91f3f70241108efa23eb56ec7ec, type: 2}
+  paw: {fileID: 21300000, guid: af83a473339244bdf96587ffd210ed7c, type: 3}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e92da674da94427587caca2a7ec65d03, type: 3}
+  m_Name: Skin_Pipes_Default
+  m_EditorClassIdentifier: 
+  _category: 1
+  _skinName: 0
+  _baseAsset: {fileID: 11400000, guid: 31a9620cf6b8743f184e617bb60a4d57, type: 2}
+  _selectedVariantId: 0
+  _colorVariants:
+  - {fileID: 11400000, guid: 741e8e6fc3a6e404aa51d610b3dca40f, type: 2}
+  - {fileID: 11400000, guid: cdfa68eb0ff1543f48c19c154ef497fc, type: 2}
+  - {fileID: 11400000, guid: 985722277f23d4e828bd0b43f54433d3, type: 2}
+  - {fileID: 11400000, guid: 5f849742ec90d4b5e832aae5e350c125, type: 2}
+  - {fileID: 11400000, guid: 9c6554d541d0d4f46889793ae9ab5358, type: 2}
+  - {fileID: 11400000, guid: 15282697a37c54e5a849271ecf935885, type: 2}
+  - {fileID: 11400000, guid: 7f1491c925d124d4d91428d99c3fff23, type: 2}

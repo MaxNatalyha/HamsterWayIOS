@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ba2e8b699afc4f1b831e81e49e5350f, type: 3}
+  m_Name: Pipes_Asset_Default
+  m_EditorClassIdentifier: 
+  _currency: 0
+  _price: 0
+  _bought: 1
+  _iap: 0
+  _assetID:
+    value: 1223ccda-d22b-449d-8ea8-282795e62549
+  assetColorPreview: {r: 0, g: 0, b: 0, a: 0}
+  straightPipe: {fileID: 21300000, guid: 886045b4ba59a481c9cd6a8d9be7ceba, type: 3}
+  cornerPipe: {fileID: 21300000, guid: 142d620636a0b4f08be5fb0d39c2c26e, type: 3}
+  straightCrossPipe: {fileID: 21300000, guid: 030bdf9167b3e4a048f987938af50739, type: 3}
+  cornerCrossPipe: {fileID: 21300000, guid: 012431eee22814fde92cf5fe17647b66, type: 3}
+  housePipe: {fileID: 21300000, guid: 5b153bc10ea434f669cea17d2a803b7f, type: 3}
+  backColor: {r: 0.52156866, g: 0.78039217, b: 0.9137255, a: 1}

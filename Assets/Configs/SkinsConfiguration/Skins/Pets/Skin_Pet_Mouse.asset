@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93261d8b7b30437e97c648bfe5e5df2b, type: 3}
+  m_Name: Skin_Pet_Mouse
+  m_EditorClassIdentifier: 
+  _category: 3
+  _skinName: 5
+  _baseAsset: {fileID: 11400000, guid: 9a17fe7a1da6b4e83bec09ad9e7dfd0b, type: 2}
+  _assetVariants:
+  - {fileID: 11400000, guid: d5aa30b1c6e21495fb1060c5ecd28f86, type: 2}

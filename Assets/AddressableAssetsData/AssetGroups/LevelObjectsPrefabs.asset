@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LevelObjectsPrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: LevelObjectsPrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4684a1624b66e4bd389ea369aa895f28
+  m_SerializeEntries:
+  - m_GUID: 07fb0cb1a1b2d463d8456f13c0ff4203
+    m_Address: Prefab_Bowl
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 467bfd2f1439c41fd912c5c4f17251b1
+    m_Address: Prefab_HamsterHouse
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6820f62e73dbe44cf8bc89fb9ea7c724
+    m_Address: Prefab_MatchingCard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ef6c1f6726864eeaa59cdd640abb76c
+    m_Address: Prefab_PipeCorner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1aabded7cfadd42038630dafd3f89408
+    m_Address: Prefab_PipeCornerCross
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c834f967ec17743b094fcc14fafaec24
+    m_Address: Prefab_PipeStraight
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 132bc1b9d1c21450cb140b32d5e3e7f2
+    m_Address: Prefab_PipeStraightCross
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7884cb23afcaf457fa10fbec1514a5f0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6da71679da8b649d5ac70b98b5f2aaae, type: 2}
+    - {fileID: 11400000, guid: 1278678c928d84f6bb99254ac67523c9, type: 2}

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e92da674da94427587caca2a7ec65d03, type: 3}
+  m_Name: Skin_Bowl_Default
+  m_EditorClassIdentifier: 
+  _category: 2
+  _skinName: 0
+  _baseAsset: {fileID: 11400000, guid: faa78fbbacac04a6ea33c49b8ce36be5, type: 2}
+  _selectedVariantId: 0
+  _colorVariants:
+  - {fileID: 11400000, guid: 5f0e2dd90615743f7b2c0dedd5a15c92, type: 2}
+  - {fileID: 11400000, guid: 9a93a659d045043c2a37af89432c5d12, type: 2}
+  - {fileID: 11400000, guid: 408b44cbf8a6e42da84741e81a1f8253, type: 2}
+  - {fileID: 11400000, guid: 130d3421d39ac48f9b5a8b79de8c6e7f, type: 2}
+  - {fileID: 11400000, guid: e32a6f00839c3468fa61b9d43a9c1082, type: 2}
+  - {fileID: 11400000, guid: 6756e891baec04da8bbaf70122c3b500, type: 2}
+  - {fileID: 11400000, guid: ca34038c53544428cb5c9dcedfd8ca61, type: 2}

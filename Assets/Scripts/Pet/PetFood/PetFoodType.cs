@@ -1,0 +1,33 @@
+namespace Pet
+{
+    public enum PetFoodType
+    {
+        Cherry,
+        Tomato,
+        Peach,
+        Nut,
+        Watermelon,
+        Pear,
+        Seed,
+        Corn,
+        Popcorn,
+        Raspberry,
+        Strawberry,
+        Peas,
+        Radish,
+        Apple,
+        Cucumber,
+        Carrot,
+        Cabbage,
+        Peanut,
+        Blackberry,
+        Broccoli,
+        CarrotSlice,
+        Cheese,
+        Cookie,
+        IceCream,
+        Orange,
+        Pistachio,
+        Plum
+    }
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c2d4fbbd7b734a93bee657023947e7c, type: 3}
+  m_Name: Card_Asset_Mushrooms_Green
+  m_EditorClassIdentifier: 
+  _currency: 0
+  _price: 2000
+  _bought: 0
+  _iap: 0
+  _assetID:
+    value: 3ba28916-53ee-4197-911e-370a8c859016
+  assetColorPreview: {r: 0.40392157, g: 0.6901961, b: 0.34117648, a: 1}
+  cardBack: {fileID: 21300000, guid: 48dd0d0ffc9984532a81e116704b08f3, type: 3}
+  cardShopPreview: {fileID: 21300000, guid: 70f35078d75df411994a89a5e2681a6d, type: 3}

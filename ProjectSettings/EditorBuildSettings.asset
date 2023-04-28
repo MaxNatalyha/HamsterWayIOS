@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HamsterWay.unity
+    guid: 156e784a75220475385dcde2fed6cb89
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 07a92d209e8a54fc79702217b3c5a48a, type: 2}

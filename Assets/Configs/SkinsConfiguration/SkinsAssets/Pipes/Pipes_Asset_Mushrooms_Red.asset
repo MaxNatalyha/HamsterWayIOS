@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ba2e8b699afc4f1b831e81e49e5350f, type: 3}
+  m_Name: Pipes_Asset_Mushrooms_Red
+  m_EditorClassIdentifier: 
+  _currency: 0
+  _price: 4000
+  _bought: 0
+  _iap: 0
+  _assetID:
+    value: 70a02d0a-ce0e-40b6-887d-7eba99cedea2
+  assetColorPreview: {r: 0.7764706, g: 0.10980392, b: 0.1254902, a: 1}
+  straightPipe: {fileID: 21300000, guid: 5ac9d02f693324198802f587efcb48c1, type: 3}
+  cornerPipe: {fileID: 21300000, guid: 8e7acb4ec125941879945c4cfce4af71, type: 3}
+  straightCrossPipe: {fileID: 21300000, guid: 5c167aecb695f47ac86b50eea2482774, type: 3}
+  cornerCrossPipe: {fileID: 21300000, guid: ea0c5ebcc7b28408abe2a208a38b4958, type: 3}
+  housePipe: {fileID: 21300000, guid: af3ba7ee5a4dd404296c34cd6877b862, type: 3}
+  backColor: {r: 0.52156866, g: 0.78039217, b: 0.9137255, a: 1}

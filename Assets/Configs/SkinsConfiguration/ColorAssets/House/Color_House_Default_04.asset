@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34dfdbfe2683c44d685bcdab6b328e24, type: 3}
+  m_Name: Color_House_Default_04
+  m_EditorClassIdentifier: 
+  _currency: 0
+  _price: 1500
+  _bought: 0
+  _iap: 0
+  _assetID:
+    value: 77d1ba17-42d5-4a86-85b0-c9464aa591f2
+  color: {r: 0.9647059, g: 0.96862745, b: 0.6901961, a: 1}

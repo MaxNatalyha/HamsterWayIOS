@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e86e4b8fd2d6461cab3075ad3bde4c4, type: 3}
+  m_Name: House_Asset_Default
+  m_EditorClassIdentifier: 
+  _currency: 0
+  _price: 0
+  _bought: 1
+  _iap: 0
+  _assetID:
+    value: ffa8da2d-932d-4f0e-ada3-4a881fffd0c9
+  assetColorPreview: {r: 0, g: 0, b: 0, a: 0}
+  house: {fileID: 21300000, guid: 740b6e55424734c6abe1f0d40042ad44, type: 3}
+  houseHole: {fileID: 21300000, guid: 2a0a22eb70ad8455e9f4971ce4357612, type: 3}

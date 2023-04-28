@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5254053c3d1f64261b48b6dc8c17ed6a, type: 3}
+  m_Name: PetFoodConfigurations
+  m_EditorClassIdentifier: 
+  petFoodConfigs:
+  - _foodType: 6
+    _satiety: 5
+    _foodSprite: {fileID: 21300000, guid: 72af8b2d2b8b84d78aa4a4b014123a11, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 25
+  - _foodType: 7
+    _satiety: 15
+    _foodSprite: {fileID: 21300000, guid: caf370ef91535461f9a0a291b8b905a7, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 45
+  - _foodType: 8
+    _satiety: 20
+    _foodSprite: {fileID: 21300000, guid: 8e2aff49e43424856a2ff6e41eec0015, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 65
+  - _foodType: 14
+    _satiety: 25
+    _foodSprite: {fileID: 21300000, guid: e1a39a2c19a714f2ba0ee63e4e5d3cdc, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 85
+  - _foodType: 20
+    _satiety: 30
+    _foodSprite: {fileID: 21300000, guid: 3195bd4f4c9994d6eb52c7c29b02b6fc, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 100
+  - _foodType: 0
+    _satiety: 35
+    _foodSprite: {fileID: 21300000, guid: dc40a6b8934c146478900f65b9c19aa9, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 120
+  - _foodType: 13
+    _satiety: 40
+    _foodSprite: {fileID: 21300000, guid: c530aec6a4f17442ca659a1cc278478c, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 140
+  - _foodType: 4
+    _satiety: 45
+    _foodSprite: {fileID: 21300000, guid: f80cd3d86919b4fb1a43006aad4178c2, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 160
+  - _foodType: 10
+    _satiety: 50
+    _foodSprite: {fileID: 21300000, guid: 091f88be7bbae4f6192b8bb6c3636c94, type: 3}
+    _purchaseInfo:
+      _currency: 0
+      _price: 180
+  - _foodType: 22
+    _satiety: 50
+    _foodSprite: {fileID: 21300000, guid: 39860fd9b9c36478d8eba9b391beb131, type: 3}
+    _purchaseInfo:
+      _currency: 1
+      _price: 10
+  - _foodType: 21
+    _satiety: 75
+    _foodSprite: {fileID: 21300000, guid: 98c27c0c44b784c18ba8ba95db337660, type: 3}
+    _purchaseInfo:
+      _currency: 1
+      _price: 25
+  - _foodType: 23
+    _satiety: 100
+    _foodSprite: {fileID: 21300000, guid: d8b512571f9b2483da6d5110b46c9173, type: 3}
+    _purchaseInfo:
+      _currency: 1
+      _price: 50

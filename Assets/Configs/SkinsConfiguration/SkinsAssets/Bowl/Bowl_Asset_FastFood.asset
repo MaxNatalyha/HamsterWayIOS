@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aeb9e42cbb2864a19a2959cb086a86f1, type: 3}
+  m_Name: Bowl_Asset_FastFood
+  m_EditorClassIdentifier: 
+  _currency: 0
+  _price: 0
+  _bought: 0
+  _iap: 1
+  _assetID:
+    value: 7fb58403-9df9-4ab0-af57-6d3dd9059e89
+  assetColorPreview: {r: 0, g: 0, b: 0, a: 0}
+  bowl: {fileID: 21300000, guid: 4dc3fcb23bc124b2e96b5b60ba9d0117, type: 3}
+  foodFront: {fileID: 21300000, guid: ee1c4fa92239c40caac74b417cfee1fa, type: 3}
+  foodBack: {fileID: 21300000, guid: a259ac3c3c9cd45fd977b4d31b874bf6, type: 3}

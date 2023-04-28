@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UIPrefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: UIPrefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 596a8df1edb7f4c6498c5d787c0330fb
+  m_SerializeEntries:
+  - m_GUID: 75ee6915f8c11496b8f899faed614c5a
+    m_Address: PipelineLevelButtonView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac3409d4ac14d4798935700577339b91
+    m_Address: PipelineLevelButtonsPage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4adf23fe273eb4cf8b67c5b628bbdfd8
+    m_Address: FoodInBarView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7f23f6b2a48c744ee980b86f532f79cb
+    m_Address: MatchingCardLevelButtonView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e5a99b6b673cf4e1384a8185d5e376b0
+    m_Address: FoodInShopView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 398ac322c00794f2289da93cd2594b88
+    m_Address: ShopSkinVariantView
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7884cb23afcaf457fa10fbec1514a5f0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3f2cbe92738d945b6975941a9a1988c8, type: 2}
+    - {fileID: 11400000, guid: 73aee66fea4a844dca1b3bbf40552dd1, type: 2}

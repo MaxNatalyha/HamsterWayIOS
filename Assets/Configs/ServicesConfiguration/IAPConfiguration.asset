@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab4a2dc9fb1477f9ad55778cec36cde, type: 3}
+  m_Name: IAPConfiguration
+  m_EditorClassIdentifier: 
+  productsInfo:
+    fastFoodPackID: FastFood_Pack
+    fastFoodPackPreview: {fileID: 21300000, guid: b46827a1c3d5d453b9f430ddd2d7e234, type: 3}
+    turnOffAdsID: No_ADS_Forever
+    noAdsPreview: {fileID: 21300000, guid: c9ecda6ef56924371bac350d87dd9396, type: 3}
+    money5KID: 5000_Wrappers
+    "money5\u041AQuantity": 5000
+    money5KPreview: {fileID: 21300000, guid: 27e5e77937bde42f1902062f3290fb2b, type: 3}
+    money10KID: 10000_Wrappers
+    money10KQuantity: 10000
+    money10KPreview: {fileID: 21300000, guid: f7e4dbd38c5c0401fa870b19ac3df062, type: 3}
+    money15KID: 15000_Wrappers
+    money15KQuantity: 15000
+    money15KPreview: {fileID: 21300000, guid: d83a07eff3408481882fad01ae1938b6, type: 3}
+  useFakeStore: 1
